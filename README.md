@@ -1,1 +1,1 @@
-# linear_regression_exercise
+# Linear-Regression-Exercise
